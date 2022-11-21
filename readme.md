@@ -1,4 +1,4 @@
 # LISINGS APP
 ### SIMPLE LISTINGS APP USING REACT NATIVE (EXPO)
-![loader](./assets/loader.PNG | width=300)
-![listings](./assets/houses.PNG | width=300)
+![loader](./assets/loader.PNG 300x)
+![listings](./assets/houses.PNG 300x)
